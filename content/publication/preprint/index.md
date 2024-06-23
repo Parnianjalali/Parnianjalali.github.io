@@ -17,25 +17,25 @@ publication_types: ["article"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-
-abstract: The human brain can be considered as complex networks, 
-composed of various regions that continuously exchange their information with each other, forming the brain network graph, from which
-nodes and edges are extracted using resting-state functional magnetic resonance imaging (rs-fMRI).
-Therefore, this graph can potentially depict abnormal patterns that have emerged under the influence of
-brain disorders. So far, numerous studies have attempted to find embeddings for brain network graphs
-and subsequently classify samples with brain disorders from healthy ones, which include limitations
-such as: not considering the relationship between samples, not utilizing phenotype information, lack of
-temporal analysis, using static functional connectivity (FC) instead of dynamic ones and using a fixed
-graph structure. We propose a hierarchical dynamic graph representation learning (HDGL) model,
-which is the first model designed to address all the aforementioned challenges. HDGL consists of
-two levels, where at the first level, it constructs brain network graphs and learns their spatial and
-temporal embeddings, and at the second level, it forms population graphs and performs classification
-after embedding learning. Furthermore, based on how these two levels are trained, four methods
-have been introduced, some of which are suggested for reducing memory complexity. We evaluated
-the performance of the proposed model on the ABIDE and ADHD-200 datasets, and the results
-indicate the improvement of this model compared to several state-of-the-art models in terms of various
-evaluation metrics.
-
+abstract: >-
+  The human brain can be considered as complex networks, 
+  composed of various regions that continuously exchange their information with each other, 
+  forming the brain network graph, from which
+  nodes and edges are extracted using resting-state functional magnetic resonance imaging (rs-fMRI).
+  Therefore, this graph can potentially depict abnormal patterns that have emerged under the influence of
+  brain disorders. So far, numerous studies have attempted to find embeddings for brain network graphs
+  and subsequently classify samples with brain disorders from healthy ones, which include limitations
+  such as: not considering the relationship between samples, not utilizing phenotype information, lack of
+  temporal analysis, using static functional connectivity (FC) instead of dynamic ones and using a fixed
+  graph structure. We propose a hierarchical dynamic graph representation learning (HDGL) model,
+  which is the first model designed to address all the aforementioned challenges. HDGL consists of
+  two levels, where at the first level, it constructs brain network graphs and learns their spatial and
+  temporal embeddings, and at the second level, it forms population graphs and performs classification
+  after embedding learning. Furthermore, based on how these two levels are trained, four methods
+  have been introduced, some of which are suggested for reducing memory complexity. We evaluated
+  the performance of the proposed model on the ABIDE and ADHD-200 datasets, and the results
+  indicate the improvement of this model compared to several state-of-the-art models in terms of various
+  evaluation metrics.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
