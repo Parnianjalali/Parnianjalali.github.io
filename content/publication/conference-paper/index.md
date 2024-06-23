@@ -1,5 +1,5 @@
 ---
-title: 'OPSD: An Offensive Persian Social Media Dataset and Its Baseline Evaluations'
+title: "OPSD: An Offensive Persian Social Media Dataset and Its Baseline Evaluations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
