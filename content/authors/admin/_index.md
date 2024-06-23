@@ -33,20 +33,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'p.jalali@alumni.iut.ac.ir'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+ # - icon: brands/x
+ #   url: https://twitter.com/GetResearchDev
+ # - icon: brands/instagram
+ #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: www.linkedin.com/in/parnian-jalali-6343b8206/
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -54,8 +54,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MEng Artificial Intelligence
+    institution: Isfahan University of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Parnian Jalali, I completed my B.Sc. in Electrical Engineering (Communication) at the [University of Isfahan] (https://www.ui.ac.ir/en) and my M.Sc. in Computer Engineering (Artificial Intelligence) at [Isfahan University of Technology] (https://english.iut.ac.ir/#:~:text=Isfahan%20University%20of%20Technology%20(IUT)%2C%20as%20one%20of%20the,in%20the%20International%20University%20Rankings.) , graduating with a GPA of 4.0/4.0 and ranking 2nd among 21 students.
