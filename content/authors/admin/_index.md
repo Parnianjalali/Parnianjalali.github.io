@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-My name is Parnian Jalali, I completed my B.Sc. in Electrical Engineering (Communication) at the [University of Isfahan] (https://www.ui.ac.ir/en) and my M.Sc. in Computer Engineering (Artificial Intelligence) at [Isfahan University of Technology] (https://english.iut.ac.ir/#:~:text=Isfahan%20University%20of%20Technology%20(IUT)%2C%20as%20one%20of%20the,in%20the%20International%20University%20Rankings.) , graduating with a GPA of 4.0/4.0 and ranking 2nd among 21 students.
+My name is Parnian Jalali, I completed my B.Sc. in Electrical Engineering (Communication) at the [University of Isfahan](https://www.ui.ac.ir/en) and my M.Sc. in Computer Engineering (Artificial Intelligence) at [Isfahan University of Technology](https://english.iut.ac.ir/#:~:text=Isfahan%20University%20of%20Technology%20(IUT)%2C%20as%20one%20of%20the,in%20the%20International%20University%20Rankings.) , graduating with a GPA of 4.0/4.0 and ranking 2nd among 21 students.
