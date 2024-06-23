@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: ""
 # 吳健雄
 
 # Name pronunciation (optional)
@@ -26,27 +26,19 @@ role: Graduate Research Assistant in Artificial Intelligence
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Isfahan university of technology
+  - name: Isfahan University of Technology
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'p.jalali@alumni.iut.ac.ir'
+    url: 'mailto:p.jalali@alumni.iut.ac.ir'
     label: E-mail Me
- # - icon: brands/x
- #   url: https://twitter.com/GetResearchDev
- # - icon: brands/instagram
- #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: www.linkedin.com/in/parnian-jalali-6343b8206/
- # - icon: academicons/google-scholar
- #   url: https://scholar.google.com/
- # - icon: academicons/orcid
- #   url: https://orcid.org/
+    url: https://www.linkedin.com/in/parnian-jalali-6343b8206/
 
 interests:
   - Artificial Intelligence
@@ -54,7 +46,6 @@ interests:
   - Information Retrieval
 
 education:
-
   - area: MEng Artificial Intelligence
     institution: Isfahan University of Technology
     date_start: 2016-01-01
@@ -65,22 +56,22 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+    courses_included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Communication
-    institution:  University of Isfahan
+    institution: University of Isfahan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
- #     GPA: 3.4/4.0
-      
-      Courses included:
+      GPA: 3.4/4.0
+    courses_included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -88,7 +79,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -148,9 +139,9 @@ languages:
     percent: 25
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Add/remove as many awards below as you like.
+# Only `title`, `awarder`, and `date` are required.
+# Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -178,7 +169,3 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-## About Me
-
-My name is Parnian Jalali, I completed my B.Sc. in Electrical Engineering (Communication) at the [University of Isfahan](https://www.ui.ac.ir/en) and my M.Sc. in Computer Engineering (Artificial Intelligence) at [Isfahan University of Technology](https://english.iut.ac.ir/#:~:text=Isfahan%20University%20of%20Technology%20(IUT)%2C%20as%20one%20of%20the,in%20the%20International%20University%20Rankings.), graduating with a GPA of 4.0/4.0 and ranking 2nd among 21 students.
