@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'OPSD: An Offensive Persian Social Media Dataset and Its Baseline Evaluations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,7 +28,19 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: >- 
+The proliferation of hate speech and offensive comments on social media has
+become increasingly prevalent due to user activities. Such comments can have
+detrimental effects on individuals’ psychological well-being and social behavior. While numerous datasets in the English language exist in this domain, few
+equivalent resources are available for Persian language. To address this gap, this
+paper introduces two offensive datasets. The first dataset comprises annotations
+provided by domain experts, while the second consists of a large collection of unlabeled data obtained through web crawling for unsupervised learning purposes. To
+ensure the quality of the former dataset, a meticulous three-stage labeling process was conducted, and kappa measures were computed to assess inter-annotator
+agreement. Furthermore, experiments were performed on the dataset using stateof-the-art language models, both with and without employing masked language modeling techniques, as well as machine learning algorithms, in order to establish
+the baselines for the dataset using contemporary cutting-edge approaches. The
+obtained F1-scores for the three-class and two-class versions of the dataset were
+76.9% and 89.9% for XLM-RoBERTa, respectively.
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
