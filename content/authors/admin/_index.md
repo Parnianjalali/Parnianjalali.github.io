@@ -52,7 +52,7 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 4.8/4.0
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Mehran Safayani](https://scholar.google.com/citations?hl=en&user=xkUYBG8AAAAJ&view_op=list_works). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Mehran Safayani](https://scholar.google.com/citations?hl=en&user=xkUYBG8AAAAJ&view_op=list_works). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -160,7 +160,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
