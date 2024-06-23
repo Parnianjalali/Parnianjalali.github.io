@@ -1,17 +1,19 @@
 ---
 # Display name
-title: 吳健雄
+title: 
+# 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Parnian Jalali
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Parnian
+last_name: Jalali
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
+  # ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +22,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Research Assistant in Artificial Intelligence
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Isfahan university of technology
     url: https://openai.com/
 
 # Social network links
