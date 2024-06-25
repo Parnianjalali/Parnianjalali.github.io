@@ -149,12 +149,18 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Reading
+    score: 23
+    total: 30
+  - name: Listening
+    score: 28
+    total: 30
+  - name: Speaking
+    score: 22
+    total: 30
+  - name: Writing
+    score: 25
+    total: 30
 
 # Awards.
 # Add/remove as many awards below as you like.
