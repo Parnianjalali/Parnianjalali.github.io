@@ -27,7 +27,7 @@ role: Graduate Research Assistant in Artificial Intelligence
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Isfahan University of Technology
-    url: https://openai.com/
+    url: https://english.iut.ac.ir/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,36 +41,40 @@ profiles:
     url: https://www.linkedin.com/in/parnian-jalali-6343b8206/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Biomedical Signal/Image Processing
+  - Brain-Computer Interface
 
 education:
   - area: MEng Artificial Intelligence
     institution: Isfahan University of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution_url: https://english.iut.ac.ir/
+    date_start: 2020-01-01
+    date_end: 2023-12-31
     summary: |
-      GPA: 4.8/4.0
+      GPA: 4.0/4.0
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Mehran Safayani](https://scholar.google.com/citations?hl=en&user=xkUYBG8AAAAJ&view_op=list_works). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
     courses_included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning (4/4)
+      - Deep Learning (4/4)
+      - Reinforcement Learning (4/4)
+      - Computer Vision (4/4)
+      - Pattern Recognition (4/4)
 
-  - area: BSc Communication
+  - area: BSc Telecommunication
     institution: University of Isfahan
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution_url: https://www.ui.ac.ir/en
+    date_start: 2014-01-01
+    date_end: 2019-12-31
     summary: |
       GPA: 3.4/4.0
     courses_included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Image Processing (3/4)
+      - Signals and Systems (4/4)
+      - Computer Programming (3/4)
 
 work:
   - position: Director of Cloud Infrastructure
