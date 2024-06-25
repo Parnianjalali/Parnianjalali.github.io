@@ -77,28 +77,42 @@ education:
       - Computer Programming (3/4)
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Isfahan University of Technology, Iran
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
+    date_end: '2023-01-01'
     summary: |
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      # Responsibilities include:
+      - Conducted extensive research on spatial-temporal methods for learning brain-network representation.
+      -  Designed and developed a model for classification of brain disorders using fMRI data.
+      -  Implemented and tested machine learning and SOTA methods for brain disorder classification.
+      -  Tested our model on ABIDE and ADHD datasets and achieved best performance compered to SOTA models.
+  - position: Teaching Assistant of Reinforcement Learning
+    company_name: Isfahan University of Technology, Iran
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2022-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Responsibilities include:
+      - Instructor: Maziar Palhang
+      - Graded assignments and projects
+      - Conducted problem-solving sessions.
+  - position: Natural language processing (NLP) Researcher
+    company_name: Isfahan University of Technology, Iran
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2022-12-31
+    summary: |
+      # Responsibilities include:
+      - Instructor: Maziar Palhang
+      - Crawled data, labelled, and created datasets for sentiment analysis.
+      - Finetuned the SOTA language model such as BERT, DeBERTa, mT5 and attention-based models.
+    
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
