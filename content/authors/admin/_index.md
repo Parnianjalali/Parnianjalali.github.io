@@ -84,8 +84,8 @@ work:
     date_start: 2021-01-01
     date_end: '2023-01-01'
     summary: |
-      # Responsibilities include:
-      - Conducted extensive research on spatial-temporal methods for learning brain-network representation.
+     
+      -  Conducted extensive research on spatial-temporal methods for learning brain-network representation.
       -  Designed and developed a model for classification of brain disorders using fMRI data.
       -  Implemented and tested machine learning and SOTA methods for brain disorder classification.
       -  Tested our model on ABIDE and ADHD datasets and achieved best performance compered to SOTA models.
@@ -96,7 +96,7 @@ work:
     date_start: 2022-01-01
     date_end: 2022-12-31
     summary: |
-      # Responsibilities include:
+      
       - Instructor: Maziar Palhang
       - Graded assignments and projects
       - Conducted problem-solving sessions.
@@ -107,7 +107,7 @@ work:
     date_start: 2021-01-01
     date_end: 2022-12-31
     summary: |
-      # Responsibilities include:
+     
       - Instructor: Maziar Palhang
       - Crawled data, labelled, and created datasets for sentiment analysis.
       - Finetuned the SOTA language model such as BERT, DeBERTa, mT5 and attention-based models.
