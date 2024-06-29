@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Policy Evaluation and Policy Iteration in FrozenLake Environment
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/Parnianjalali/Reinforcement-Learning
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Navigation on a frozen lake with the aim of reaching a goal without falling into holes.
 
 <!--more-->
