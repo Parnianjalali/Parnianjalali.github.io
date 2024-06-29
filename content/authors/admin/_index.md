@@ -53,7 +53,7 @@ education:
     date_end: 2023-12-31
     summary: |
       GPA: 4.0/4.0
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Mehran Safayani](https://scholar.google.com/citations?hl=en&user=xkUYBG8AAAAJ&view_op=list_works). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Mehran Safayani](https://scholar.google.com/citations?hl=en&user=xkUYBG8AAAAJ&view_op=list_works). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
