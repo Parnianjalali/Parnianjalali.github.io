@@ -7,10 +7,16 @@ classes: wide smaller-font
 {% capture custom_content %}
 ## About Me
 <div style="text-align: justify; font-size: 16px;">
-I am a <strong>Ph.D. candidate</strong> and <strong>university fellow</strong> in Electrical Engineering at the University of Rhode Island, with over <strong>4 years</strong> of combined experience in academic research and professional work as a <strong>Machine Learning Engineer</strong>. I have experience in reinforcement learning, robotics, computer vision, signal processing, and natural language processing (NLP). My current research as a Ph.D. candidate focuses on autonomous and shared autonomy systems, human-in-the-loop intelligent agents, and electroencephalography (EEG) analysis and interpretation. I design multimodal AI frameworks that integrate biosignals with computer vision and reinforcement learning to enhance shared autonomy systems specifically for individuals with disabilities.
+I am a graduate research assistant at Isfahan University of Technology (IUT) with extensive experience in designing and developing AI frameworks for healthcare applications. My passion lies in creating advanced AI tools to assist patients and healthcare professionals, ultimately enhancing quality of life. Through my work, I aim to improve clinical outcomes, detect and prevent diseases, and mitigate harmful health habits.
+
+I thrive on conducting research and developing innovative solutions by leveraging machine learning, deep learning, and signal and image processing techniques. To stay at the forefront of this rapidly evolving field, I am  dedicated to continuously expanding my knowledge and expertise in AI. My ultimate goal is to bridge the gap between cutting-edge technology and practical healthcare solutions, fostering impactful advancements in the medical field.
+
+
 </div>
 
-
+## Education						       		
+- M.S.,  Computer Engineering, Artificial Intelligence	| Isfahan University of Technology (_Aug 2023_)	 			        		
+- B.S.,  Electrical Engineering, Telecommunication | University of Isfahan (_Jun 2019_)
 {: .small}
 
 ---
