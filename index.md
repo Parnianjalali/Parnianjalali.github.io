@@ -23,23 +23,23 @@ I thrive on conducting research and developing innovative solutions by leveragin
 ## Research Interests
 
 1. **AI in Healthcare**
-   - Kinematics, Control systems, Reinforcement larning, Imitation learning, Path planning, Human-robot interaction, Sensor integration (LiDAR, cameras, IMUs), ROS (Robot Operating System) development, Simulation software, Sim-to-real
+   - My research focuses on leveraging AI and machine learning, particularly deep learning and neural networks, to detect both physical and mental health conditions early. The goal is to prevent diseases before they arise, halt their progression, and reduce complications for patients who are already affected.
   
 2. **Biomedical Signal Processing**
-   - Time series analysis (ARIMA, LSTM, GRU- RCNN), EEG signal processing, Spectral analysis, Time-frequency analysis (STFT, wavelets, Hilbert-Huang transform), Signal filtering and enhancement (Kalman filters, FIR/IIR), Feature extraction methods (FFT, wavelets), Denoising, Blind source separation (ICA, NMF)
+   - My research focuses on extracting meaningful features from biomedical signals, such as ECG and EEG, using time-frequency domain techniques like wavelet transform. These features, when considered as data representations in machine learning models, enhance the accuracy and efficiency of signal interpretation. I am particularly interested in making this process computationally efficient for integration into wearable devices, enabling real-time monitoring and analysis.
 
 
 3. **Computer Vision**
    - CNN architectures (ResNet, DenseNet, EfficientNet, Vision Transformer), Object detection (YOLO v3-v7), Segmentation (U-Net, Mask R-CNN, DeepLab), 3D vision (PointNet++, VoxelNet, point cloud processing), SLAM, Pose estimation, Multi-View Geometry
 
 4. **Interpretable AI**
-   - jj
+   - In the medical field, where decisions directly impact patient, the interpretability and explainability of deep learning models are critical. These qualities foster trust among clinicians and practitioners, enabling them to confidently adopt and rely on AI tools. Furthermore, understanding how models make decisions can uncover new insights and advance medical knowledge.
 
 5. **Multi-modal Learning**
-   - bhh
+   - With the inherently diverse modalities of medical data—such as text, images, and time-series signals—integrating them can provide a deeper understanding of complex medical conditions, enhancing interpretability and leading to more accurate diagnoses.
 
 6. **Large Language Model (LLM)**
-   - ni
+   - I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
 {: .small}
 ---
 ## Technical Skills
