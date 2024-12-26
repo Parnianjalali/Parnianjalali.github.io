@@ -36,6 +36,6 @@ classes: smaller-font
 
 
 - Crawled data, labelled, and created datasets for sentiment analysis.
-- Finetuned the SOTA language model such as BERT, DeBERTa, mT5 and attention-based models.  
+- Finetuned the SOTA language model such as BERT, DeBERTa, XLM-RoBERTa and attention-based models.  
 </div>
 
