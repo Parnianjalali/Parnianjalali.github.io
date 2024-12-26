@@ -4,38 +4,26 @@ layout: single
 permalink: /experience/
 author_profile: true
 classes: smaller-font
-
 ---
+
+# Experience
 
 ## Academic Experience
 
-### Research Assistant
-**Isfahan University of Technology, Iran**, 2021 - 2023 <br>
-                                    
+### Research Assistant  
+**Isfahan University of Technology, Iran** (2021 - 2023)  
+- Researched **spatio-temporal methods** for brain-network representation learning.  
+- Designed and developed **deep learning models** for brain disorder classification using fMRI data.  
+- Tested and compared models for brain disorder diagnosis, achieving superior performance on **ABIDE** and **ADHD datasets**.  
 
+### Teaching Assistant  
+**Isfahan University of Technology, Iran** (2022)  
+- Assisted in the **Reinforcement Learning** course.  
+- Graded assignments and projects, and led problem-solving sessions.  
 
-- Conducted extensive research on spatio-temporal methods for brain-network representation learning.
-- Designed and developed deep learning models for brain disorder classification using fMRI data.
-- Implemented and tested machine learning and state-of-the-art  (SOTA) methods for brain disorder diagnosis.
-- Applied models to the ABIDE and ADHD datasets, achieving superior performance compared to SOTA models.
+### NLP Researcher  
+**Isfahan University of Technology, Iran** (2021 - 2022)  
+- Created and annotated datasets for **sentiment analysis**.  
+- Fine-tuned **state-of-the-art language models** such as BERT, DeBERTa, and XLM-RoBERTa.  
 
-</div>
-
-### Teaching Assistant
-**Isfahan University of Technology, Iran**, 2022 - 2022 <br>
-
-
-- Reinforcement Learning course.   
-- Graded assignments and projects.
-- Conducted problem-solving sessions.
-
-</div>
-
-### Natural Language Processing Researcher
-**Isfahan University of Technology, Iran**, 2021 - 2022 <br> 
-
-
-- Crawled data, labelled, and created datasets for sentiment analysis.
-- Finetuned the SOTA language model such as BERT, DeBERTa, XLM-RoBERTa and attention-based models.  
-</div>
 
