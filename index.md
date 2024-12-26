@@ -17,7 +17,7 @@ I thrive on conducting research and developing innovative solutions by leveragin
 ## Education						       		
 - M.S.,  Computer Engineering, Artificial Intelligence	| Isfahan University of Technology (_Aug 2023_)	 			        		
 - B.S.,  Electrical Engineering, Telecommunication | University of Isfahan (_Jun 2019_)
-{: .small}
+
 
 ---
 ## Research Interests
@@ -47,8 +47,6 @@ I thrive on conducting research and developing innovative solutions by leveragin
 - **Machine Learning & AI:** TensorFlow, PyTorch, torchvision, Scikit-learn, Keras, OpenAI Gym, OpenCV, PIL
 - **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, SKLearn, SciPy
 - **Tools:** Git, GitHub, Docker, Kubernetes, Streamlit, Hugging Face, AWS
-
-
 {: .small}
 {% endcapture %}
 
