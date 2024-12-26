@@ -3,8 +3,8 @@ title: Experience
 layout: single
 permalink: /experience/
 author_profile: true
-classes: smaller-font{
-  font-size: 0.9rem; /* Adjust the size as needed */
+classes: smaller-font {
+  font-size: 0.9rem;
 }
 ---
 
