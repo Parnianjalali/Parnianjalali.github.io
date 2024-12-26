@@ -1,14 +1,14 @@
 ---
-title: "Experience"
+title: 
 layout: single
 permalink: /experience/
 author_profile: true
 classes: smaller-font
 ---
 
-# Experience
 
 ## Academic Experience
+<div style="font-size: 0.9rem; line-height: 1.5;">
 
 ### Research Assistant  
 **Isfahan University of Technology, Iran** (2021 - 2023)  
