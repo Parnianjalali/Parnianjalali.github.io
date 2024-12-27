@@ -11,11 +11,13 @@ classes: smaller-font
 
 ### Research Assistant  
 **Isfahan University of Technology, Iran (2021 - 2023)**  
-
-- Researched **spatio-temporal methods** for brain-network representation learning.  
-- Designed and developed **deep learning models** for brain disorder classification using fMRI data.  
-- Tested and compared models for brain disorder diagnosis, achieving superior performance on **ABIDE** and **ADHD datasets**.  
-
+<div style="text-align: justify; font-size: 16px;">
+  <ul>
+    <li>Researched **spatio-temporal methods** for brain-network representation learning.</li>
+    <li>Designed and developed **deep learning models** for brain disorder classification using fMRI data. </li>
+    <li>Tested and compared models for brain disorder diagnosis, achieving superior performance on **ABIDE** and **ADHD datasets**.</li>
+  </ul>
+</div>
 
 ### Teaching Assistant  
 **Isfahan University of Technology, Iran (2022)**  
