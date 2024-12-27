@@ -7,7 +7,7 @@ classes: wide smaller-font
 {% capture custom_content %}
 ## About Me
 <div style="text-align: justify; font-size: 16px;">
-I am a graduate research assistant at Isfahan University of Technology (IUT) with extensive experience in designing and developing AI frameworks for healthcare applications. My passion lies in creating advanced AI tools to assist patients and healthcare professionals, ultimately enhancing quality of life. Through my work, I aim to improve clinical outcomes, detect and prevent diseases, and mitigate harmful health habits.
+I am a <strong>graduate research assistant </strong> at <strong> Isfahan University of Technology (IUT) </strong> with extensive experience in designing and developing AI frameworks for healthcare applications. My passion lies in creating advanced AI tools to assist patients and healthcare professionals, ultimately enhancing quality of life. Through my work, I aim to improve clinical outcomes, detect and prevent diseases, and mitigate harmful health habits.
 
 I thrive on conducting research and developing innovative solutions by leveraging machine learning, deep learning, and signal and image processing techniques. To stay at the forefront of this rapidly evolving field, I am  dedicated to continuously expanding my knowledge and expertise in AI. My ultimate goal is to bridge the gap between cutting-edge technology and practical healthcare solutions, fostering impactful advancements in the medical field.
 
