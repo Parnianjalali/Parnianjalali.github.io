@@ -7,7 +7,7 @@ classes: wide smaller-font
 ---
 
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
-<div style="text-align: justify; font-size: 16px;">
+<div style="text-align: justify; font-size: 17px;">
   <ul>
     <li>Ethereum Price Estimation with RNNs</li>
     <li>Face Mask Detection Using CNN</li>
@@ -18,7 +18,7 @@ classes: wide smaller-font
 ---
 
 ### Reinforcement Learning [GitHub Link](https://github.com/Parnianjalali/Reinforcement-Learning)
-<div style="text-align: justify; font-size: 16px;">
+<div style="text-align: justify; font-size: 17px;">
   <ul>
     <li>Solving the Mountain Car Problem Using Semi-Gradient SARSA and Tile Coding</li>
     <li>Policy Evaluation and Monte Carlo Methods in FrozenLake Environment</li>
@@ -28,7 +28,7 @@ classes: wide smaller-font
 ---
 
 ### Image Processing & Computer Vision [GitHub Link](https://github.com/Parnianjalali/Image-Processing)
-<div style="text-align: justify; font-size: 16px;">
+<div style="text-align: justify; font-size: 17px;">
   <ul>
     <li>Design and Implementation of a Hybrid CNN and Fully Connected Model for Handwritten Digit Classification</li>
     <li>MRI Image Registration Using Harris and SURF Feature Detection</li>
