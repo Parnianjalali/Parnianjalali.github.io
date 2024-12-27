@@ -22,34 +22,34 @@ I thrive on conducting research and developing innovative solutions by leveragin
 ---
 ## Research Interests
 
-1. **AI in Healthcare**
+**1. AI in Healthcare**
 <div style="text-align: justify; font-size: 16px;">  
-   - My research focuses on leveraging AI and machine learning, particularly deep learning and neural networks, to detect both physical and mental health conditions early. The goal is to prevent diseases before they arise, halt their progression, and reduce complications for patients who are already affected.
+- My research focuses on leveraging AI and machine learning, particularly deep learning and neural networks, to detect both physical and mental health conditions early. The goal is to prevent diseases before they arise, halt their progression, and reduce complications for patients who are already affected.
 </div>  
 
-2. **Biomedical Signal Processing**
+**2. Biomedical Signal Processing**
 <div style="text-align: justify; font-size: 16px;">   
-   - My research focuses on extracting meaningful features from biomedical signals, such as ECG and EEG, using time-frequency domain techniques like wavelet transform. These features, when considered as data representations in machine learning models, enhance the accuracy and efficiency of signal interpretation. I am particularly interested in making this process computationally efficient for integration into wearable devices, enabling real-time monitoring and analysis.
+- My research focuses on extracting meaningful features from biomedical signals, such as ECG and EEG, using time-frequency domain techniques like wavelet transform. These features, when considered as data representations in machine learning models, enhance the accuracy and efficiency of signal interpretation. I am particularly interested in making this process computationally efficient for integration into wearable devices, enabling real-time monitoring and analysis.
 </div>
 
-3. **Computer Vision**
+**3. Computer Vision**
 <div style="text-align: justify; font-size: 16px;">  
-   - CNN architectures (ResNet, DenseNet, EfficientNet, Vision Transformer), Object detection (YOLO v3-v7), Segmentation (U-Net, Mask R-CNN, DeepLab), 3D vision (PointNet++, VoxelNet, point cloud processing), SLAM, Pose estimation, Multi-View Geometry
+- CNN architectures (ResNet, DenseNet, EfficientNet, Vision Transformer), Object detection (YOLO v3-v7), Segmentation (U-Net, Mask R-CNN, DeepLab), 3D vision (PointNet++, VoxelNet, point cloud processing), SLAM, Pose estimation, Multi-View Geometry
 </div>
 
-4. **Interpretable AI**
+**4. Interpretable AI**
 <div style="text-align: justify; font-size: 16px;"> 
-   - In the medical field, where decisions directly impact patient, the interpretability and explainability of deep learning models are critical. These qualities foster trust among clinicians and practitioners, enabling them to confidently adopt and rely on AI tools. Furthermore, understanding how models make decisions can uncover new insights and advance medical knowledge.
+- In the medical field, where decisions directly impact patient, the interpretability and explainability of deep learning models are critical. These qualities foster trust among clinicians and practitioners, enabling them to confidently adopt and rely on AI tools. Furthermore, understanding how models make decisions can uncover new insights and advance medical knowledge.
 </div>
 
-5. **Multi-modal Learning**
+**5. Multi-modal Learning**
 <div style="text-align: justify; font-size: 16px;"> 
-   - With the inherently diverse modalities of medical data—such as text, images, and time-series signals—integrating them can provide a deeper understanding of complex medical conditions, enhancing interpretability and leading to more accurate diagnoses.
+- With the inherently diverse modalities of medical data—such as text, images, and time-series signals—integrating them can provide a deeper understanding of complex medical conditions, enhancing interpretability and leading to more accurate diagnoses.
 </div>
 
-6. **Large Language Model (LLM)**
+**6. Large Language Model (LLM)**
 <div style="text-align: justify; font-size: 16px;"> 
-   - I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
+- I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
 </div>
 ---
 ## Technical Skills
