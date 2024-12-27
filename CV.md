@@ -19,3 +19,4 @@ classes: wide smaller-font
 If the preview is not working, you can download the CV directly:
 
 - [Download My CV (PDF)]({{ site.url }}/assets/parnianjalali_CV.pdf)
+{: .small}
