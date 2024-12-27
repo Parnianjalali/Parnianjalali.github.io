@@ -11,7 +11,7 @@ classes: smaller-font
 
 ### Research Assistant  
 <span style="font-style: italic;">Isfahan University of Technology, Iran (2021 - 2023)</span>
-<div style=" font-size: 16px;">
+<div style=" font-size: 17px;">
   <ul>
     <li>Researched spatio-temporal methods for brain-network representation learning.</li>
     <li>Designed and developed deep learning models for brain disorder classification using fMRI data. </li>
@@ -22,7 +22,7 @@ classes: smaller-font
 ### Teaching Assistant  
  
 <span style="font-style: italic;">Isfahan University of Technology, Iran (2022)</span>
-<div style=" font-size: 16px;">
+<div style=" font-size: 17px;">
   <ul>
     <li>Assisted in the Reinforcement Learning course.</li>
     <li>Graded assignments and projects, and led problem-solving sessions.</li>
@@ -31,7 +31,7 @@ classes: smaller-font
 
 ### NLP Researcher 
 <span style="font-style: italic;">Isfahan University of Technology, Iran (2021 - 2022)</span>
-<div style=" font-size: 16px;">
+<div style=" font-size: 17px;">
   <ul>
     <li>Created and annotated datasets for sentiment analysis.</li>
     <li>Fine-tuned state-of-the-art language models such as BERT, DeBERTa, and XLM-RoBERTa.</li>
