@@ -15,8 +15,8 @@ I thrive on conducting research and developing innovative solutions by leveragin
 </div>
 
 ## Education						       		
-- M.S.,  Computer Engineering, Artificial Intelligence	| Isfahan University of Technology (_Aug 2023_)	 			        		
-- B.S.,  Electrical Engineering, Telecommunication | University of Isfahan (_Jun 2019_)
+- M.S.,  Computer Engineering, Artificial Intelligence	| [Isfahan University of Technology](https://english.iut.ac.ir/) (_Aug 2023_) | GPA: 4.00/4.00	        	
+- B.S.,  Electrical Engineering, Telecommunication | [University of Isfahan](https://www.ui.ac.ir/EN) (_Jun 2019_)
 
 
 ---
@@ -52,11 +52,11 @@ I thrive on conducting research and developing innovative solutions by leveragin
 - I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
 </div>
 ---
+
 ## Technical Skills
-- **Programming:** Python, C/C++, MATLAB, SQL
-- **Machine Learning & AI:** TensorFlow, PyTorch, torchvision, Scikit-learn, Keras, OpenAI Gym, OpenCV, PIL
-- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, SKLearn, SciPy
-- **Tools:** Git, GitHub, Docker, Kubernetes, Streamlit, Hugging Face, AWS
+- **Programming:** Python, MATLAB, C/C++
+- **Machine Learning & AI:** PyTorch, TensorFlow, PyTorch, Scikit-learn, Keras
+- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn, SKLearn
 {: .small}
 {% endcapture %}
 
