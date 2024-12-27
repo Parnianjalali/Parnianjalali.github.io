@@ -12,7 +12,7 @@ Thank you for your interest in contacting me. I welcome inquiries related to my 
 ## Email
 <div style="text-align: justify; font-size: 17px;">
 The best way to reach me is via email:
-<strong>Email:</strong> [parniyanjalali232@gmail.com](mailto:parniyanjalali232@gmail.com)
+**Email:** [parniyanjalali232@gmail.com](mailto:parniyanjalali232@gmail.com)
 </div>
 
 
