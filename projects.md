@@ -7,19 +7,31 @@ classes: wide smaller-font
 ---
 
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
-- Ethereum Price Estimation with RNNs
-- Face Mask Detection Using CNN
-- Emotion Recognition for TFD Dataset
-
+<div style="text-align: justify; font-size: 16px;">
+  <ul>
+    <li>Ethereum Price Estimation with RNNs</li>
+    <li>Face Mask Detection Using CNN</li>
+    <li>Emotion Recognition for TFD Dataset</li>
+  </ul>
+</div>
+---
 
 ### Reinforcement Learning [GitHub Link](https://github.com/Parnianjalali/Reinforcement-Learning)
-- Solving the Mountain Car Problem Using Semi-Gradient SARSA and Tile Coding
-- Policy Evaluation and Monte Carlo Methods in FrozenLake Environment
-
+<div style="text-align: justify; font-size: 16px;">
+  <ul>
+    <li>Solving the Mountain Car Problem Using Semi-Gradient SARSA and Tile Coding
+    <li>Policy Evaluation and Monte Carlo Methods in FrozenLake Environment
+   </ul>
+</div>  
+    
+---
 
 ### Image Processing & Computer Vision [GitHub Link](https://github.com/Parnianjalali/Image-Processing)
-- Design and Implementation of a Hybrid CNN and Fully Connected Model for Handwritten Digit Classification
-- MRI Image Registration Using Harris and SURF Feature Detection
-- Segmentation and Cell Counting in Histopathology Images Using Various Techniques
-
+<div style="text-align: justify; font-size: 16px;">
+  <ul>
+    <li>Design and Implementation of a Hybrid CNN and Fully Connected Model for Handwritten Digit Classification
+    <li>MRI Image Registration Using Harris and SURF Feature Detection
+    <li>Segmentation and Cell Counting in Histopathology Images Using Various Techniques
+  </ul>
+</div>  
 
