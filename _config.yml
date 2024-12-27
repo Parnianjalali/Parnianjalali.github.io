@@ -116,7 +116,7 @@ author:
   name             : "Parnian Jalali"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Research Assistant in Artificial Intelligence, Isfahan University of Technology"
-  location         : "Isfahan, Iran"
+  location         : ""
   email            : "mailto:parniyanjalali232@gmail.com"
   links:
     - label: "LinkedIn"
