@@ -13,9 +13,9 @@ classes: smaller-font
 **Isfahan University of Technology, Iran (2021 - 2023)**  
 <div style="text-align: justify; font-size: 18px;">
   <ul>
-    <li>Researched <strong> spatio-temporal methods </strong>strong> for brain-network representation learning.</li>
-    <li>Designed and developed <strong> deep learning models </strong>strong> for brain disorder classification using fMRI data. </li>
-    <li>Tested and compared models for brain disorder diagnosis, achieving superior performance on <strong> ABIDE </strong>strong> and <strong>ADHD</strong>strong> datasets.</li>
+    <li>Researched <strong> spatio-temporal methods </strong>for brain-network representation learning.</li>
+    <li>Designed and developed <strong> deep learning models </strong> for brain disorder classification using fMRI data. </li>
+    <li>Tested and compared models for brain disorder diagnosis, achieving superior performance on <strong> ABIDE </strong> and <strong>ADHD</strong>datasets.</li>
   </ul>
 </div>
 
