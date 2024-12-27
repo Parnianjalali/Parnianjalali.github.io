@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Research Assistant in Artificial Intelligence, Isfahan University of Technology"
   location         : "Isfahan, Iran"
-  email            :
+  email            : "mailto:parniyanjalali232@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
