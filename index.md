@@ -40,7 +40,7 @@ I thrive on conducting research and developing innovative solutions by leveragin
 
 6. **Large Language Model (LLM)**
    - I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
-{: .small}
+
 ---
 ## Technical Skills
 - **Programming:** Python, C/C++, MATLAB, SQL
