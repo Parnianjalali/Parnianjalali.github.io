@@ -21,7 +21,7 @@ I thrive on conducting research and developing innovative solutions by leveragin
 
 ---
 ## Research Interests
-
+<div style="text-align: justify; font-size: 16px;">
 1. **AI in Healthcare**
    - My research focuses on leveraging AI and machine learning, particularly deep learning and neural networks, to detect both physical and mental health conditions early. The goal is to prevent diseases before they arise, halt their progression, and reduce complications for patients who are already affected.
   
