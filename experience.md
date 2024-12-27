@@ -20,7 +20,8 @@ classes: smaller-font
 </div>
 
 ### Teaching Assistant  
-**Isfahan University of Technology, Iran (2022)**  
+ 
+<span style="font-style: italic;">Isfahan University of Technology, Iran (2022)</span>
 <div style=" font-size: 16px;">
   <ul>
     <li>Assisted in the Reinforcement Learning course.</li>
@@ -29,9 +30,7 @@ classes: smaller-font
 </div>
 
 ### NLP Researcher 
-**Isfahan University of Technology, Iran (2021 - 2022)**  
-- Created and annotated datasets for **sentiment analysis**.  
-- Fine-tuned **state-of-the-art language models** such as BERT, DeBERTa, and XLM-RoBERTa.  
+<span style="font-style: italic;">Isfahan University of Technology, Iran (2021 - 2022)</span>
 <div style=" font-size: 16px;">
   <ul>
     <li>Created and annotated datasets for sentiment analysis.</li>
