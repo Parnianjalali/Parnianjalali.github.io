@@ -29,13 +29,4 @@ classes: smaller-font
   </ul>
 </div>
 
-### NLP Researcher 
-<span style="font-style: italic;">Isfahan University of Technology, Iran (2021 - 2022)</span>
-<div style=" font-size: 17px;">
-  <ul>
-    <li>Created and annotated datasets for sentiment analysis.</li>
-    <li>Fine-tuned state-of-the-art language models such as BERT, DeBERTa, and XLM-RoBERTa.</li>
-  </ul>
-</div>
-
 
