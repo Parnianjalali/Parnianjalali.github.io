@@ -8,11 +8,23 @@ classes: smaller-font
 
 ## Journal Articles
 <div style="text-align: justify; font-size: 16px;">
-  <ol>
-    <li> <strong> Jalali P </strong> and Safayani M. HDGL: A hierarchical dynamic graph representation learning model for brain disorder classification. Biomedical Signal Processing and Control Journal (Under Review)</li>
-    <li>Safayani M, Sartipi A, Ahmadi AH, <strong> Jalali P </strong>, Mansouri AH, Bishe A. OPSD: an Offensive Persian Social Media Dataset and its Baseline Evaluations. New Review of Hypermedia and Multimedia Journal (Under Revision)</li>
-  </ol>
-</div>  
+<ol>
+<li>
+  <img src="/assets/HDGL.png" alt="HDGL paper" style="width:80px; float:left; margin-right:10px; border-radius:8px;">
+  <strong>Jalali P</strong> and Safayani M.  
+  HDGL: A hierarchical dynamic graph representation learning model for brain disorder classification.  
+  <em>Biomedical Signal Processing and Control Journal (Under Review)</em>
+</li>
+
+<li>
+  <img src="/assets/OPSD.png" alt="OPSD paper" style="width:80px; float:left; margin-right:10px; border-radius:8px;">
+  Safayani M, Sartipi A, Ahmadi AH, <strong>Jalali P</strong>, Mansouri AH, Bishe A.  
+  OPSD: an Offensive Persian Social Media Dataset and its Baseline Evaluations.  
+  <em>New Review of Hypermedia and Multimedia Journal (Under Revision)</em>
+</li>
+</ol>
+</div>
+
 
 
 ## Theses
