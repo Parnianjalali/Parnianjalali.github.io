@@ -5,17 +5,6 @@ permalink: /projects/
 author_profile: true
 classes: wide smaller-font
 ---
-### Vision Language Models (VLMs)
-<div style="text-align: justify; font-size: 17px;">
-  <ul>
-    <li>Domain-Adapted Radiology Vision–Language Model</li>
-    <li>Vision–Language Grounding for Referring Expressions</li>
-    <li>Math-to-LaTeX Visual OCR</li>
-    <li>Video-to-Text Multimodal Understanding</li>
-    <li>Compute-Efficient Multimodal Fine-Tuning Pipeline</i>
-    <li>Low-VRAM Vision–Language Object Detection</i>
-  </ul>
-</div>
 
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
 <div style="text-align: justify; font-size: 17px;">
