@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Parnian Jalali"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/profile_photo.png"
   bio              : "Graduate Research Assistant in Artificial Intelligence, Isfahan University of Technology"
   #location         : ""
   email            : "mailto:parniyanjalali232@gmail.com"
