@@ -5,7 +5,17 @@ permalink: /projects/
 author_profile: true
 classes: wide smaller-font
 ---
-
+### Vision Language Models (VLMs)
+<div style="text-align: justify; font-size: 17px;">
+  <ul>
+    <li>Domain-Adapted Radiology Vision–Language Model</li>
+    <li>Vision–Language Grounding for Referring Expressions</li>
+    <li>Math-to-LaTeX Visual OCR</li>
+    <li>Video-to-Text Multimodal Understanding</li>
+    <i>Compute-Efficient Multimodal Fine-Tuning Pipeline</i>
+    <i>Low-VRAM Vision–Language Object Detection</i>
+  </ul>
+</div>
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
 <div style="text-align: justify; font-size: 17px;">
   <ul>
@@ -30,7 +40,6 @@ classes: wide smaller-font
 ### Image Processing & Computer Vision [GitHub Link](https://github.com/Parnianjalali/Image-Processing)
 <div style="text-align: justify; font-size: 17px;">
   <ul>
-    <li>Design and Implementation of a Hybrid CNN and Fully Connected Model for Handwritten Digit Classification</li>
     <li>MRI Image Registration Using Harris and SURF Feature Detection</li>
     <li>Segmentation and Cell Counting in Histopathology Images Using Various Techniques</li>
   </ul>
