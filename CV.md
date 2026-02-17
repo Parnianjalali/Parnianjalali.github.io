@@ -10,7 +10,7 @@ classes: wide smaller-font
 
 <div style="width: 100%; height: 800px; overflow: hidden;">
     <iframe src="{{ '/assets/parnianjalali_CV.pdf' | relative_url }}" width="100%" height="100%" frameborder="0" style="overflow: auto;">
-        <p>Your browser does not support iframes. You can <a href="{{ '/assets/parnianjalali_CV.pdf' | relative_url }}">download the PDF</a> instead.</p>
+        <p>Your browser does not support iframes. You can <a href="{{ '/assets/CV_Parnian_Jalali.pdf' | relative_url }}">download the PDF</a> instead.</p>
     </iframe>
 </div>
 
@@ -18,5 +18,5 @@ classes: wide smaller-font
 
 If the preview is not working, you can download the CV directly:
 
-- [Download My CV (PDF)]({{ site.url }}/assets/parnianjalali_CV.pdf)
+- [Download My CV (PDF)]({{ site.url }}/assets/CV_Parnian_Jalali.pdf)
 {: .small}
