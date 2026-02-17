@@ -12,8 +12,8 @@ classes: wide smaller-font
     <li>Vision–Language Grounding for Referring Expressions</li>
     <li>Math-to-LaTeX Visual OCR</li>
     <li>Video-to-Text Multimodal Understanding</li>
-    <i>Compute-Efficient Multimodal Fine-Tuning Pipeline</i>
-    <i>Low-VRAM Vision–Language Object Detection</i>
+    <li>Compute-Efficient Multimodal Fine-Tuning Pipeline</i>
+    <li>Low-VRAM Vision–Language Object Detection</i>
   </ul>
 </div>
 
