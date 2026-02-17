@@ -27,29 +27,21 @@ I thrive on conducting research and developing innovative solutions by leveragin
 - My research focuses on leveraging AI and machine learning, particularly deep learning and neural networks, to detect both physical and mental health conditions early. The goal is to prevent diseases before they arise, halt their progression, and reduce complications for patients who are already affected.
 </div>  
 
-**2. Biomedical Signal Processing**
+**2. Biomedical Signal and Image Processing**
 <div style="text-align: justify; font-size: 16px;">   
-- My research focuses on extracting meaningful features from biomedical signals, such as ECG and EEG, using time-frequency domain techniques like wavelet transform. These features, when considered as data representations in machine learning models, enhance the accuracy and efficiency of signal interpretation. I am particularly interested in making this process computationally efficient for integration into wearable devices, enabling real-time monitoring and analysis.
+- Working with signals (e.g., ECG, EEG) and medical images (e.g., MRI, CT) to extract features and develop ML models for real-time monitoring, diagnosis, and deeper understanding of medical conditions.
 </div>
 
-**3. Computer Vision**
-<div style="text-align: justify; font-size: 16px;">  
-- CNN architectures (ResNet, DenseNet, EfficientNet, Vision Transformer), Object detection (YOLO v3-v7), Segmentation (U-Net, Mask R-CNN, DeepLab), 3D vision (PointNet++, VoxelNet, point cloud processing), SLAM, Pose estimation, Multi-View Geometry
-</div>
 
-**4. Interpretable AI**
+**3. Interpretable & Trustworthy AI:**
 <div style="text-align: justify; font-size: 16px;"> 
-- In the medical field, where decisions directly impact patient, the interpretability and explainability of deep learning models are critical. These qualities foster trust among clinicians and practitioners, enabling them to confidently adopt and rely on AI tools. Furthermore, understanding how models make decisions can uncover new insights and advance medical knowledge.
+- Designing methods that make AI decision-making clear and reliable so that clinicians and patients can use them with confidence.
 </div>
 
-**5. Multi-modal Learning**
+**4. Large Language Models (LLMs) & Multi-modal Learning**
 <div style="text-align: justify; font-size: 16px;"> 
-- With the inherently diverse modalities of medical data—such as text, images, and time-series signals—integrating them can provide a deeper understanding of complex medical conditions, enhancing interpretability and leading to more accurate diagnoses.
-</div>
-
-**6. Large Language Model (LLM)**
-<div style="text-align: justify; font-size: 16px;"> 
-- I have experience in collecting, annotating, and creating datasets, as well as fine-tuning pretrained language models such as BERT and DeBERTa for sentiment analysis. My interests include developing multi-modal LLMs that integrate text and image data and exploring techniques like prompt engineering to enhance model performance and adaptability.
+- Experienced in dataset creation (collection, annotation, and curation) and fine-tuning pretrained LLMs for NLP tasks such as sentiment analysis. Interested in extending
+this expertise to multi-modal medical applications by integrating text, images, and signals for deeper understanding of complex conditions.
 </div>
 ---
 
