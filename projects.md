@@ -17,9 +17,6 @@ classes: wide smaller-font
   </ul>
 </div>
 
-
-
-
 ---
 
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
