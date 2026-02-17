@@ -16,7 +16,7 @@ classes: wide smaller-font
     <li>Low-VRAM Vision–Language Object Detection</i>
   </ul>
 </div>
-
+---
 ### Deep Learning [GitHub Link](https://github.com/Parnianjalali/Deep-Learning)
 <div style="text-align: justify; font-size: 17px;">
   <ul>
